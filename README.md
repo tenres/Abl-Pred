@@ -10,3 +10,6 @@ The different parts of the code perform different functions:
 5. "nnUnet": Novel ablation zone prediction algorithm. Our ablation prediction algorithm is based on the nnUnet code. This folder is "as is" from the nnUnet version v1 repository: https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1. In our case, the input has two channels: 1) pre proc. scan and 2) the 3D vendor model representative of power and duration of ablation. The output is a single channel prediction of the binary 3D ablation zone shape. The nnUnet code does not take two channels as input by default. It does so in the 3d_lowres → 3d_cascade_fullres setup. So, the 3d_cascade_fullres code is to be used for reading the vendor mdoel as the 2nd channel, in-place of the nnUnet 3d_lowres output. This can be done by pointing the 3d_cascade_fullres nnUnet code to the path to the vendor model files appropriately.
 
 ## Requirements
+Python 3.8 Library dependencies: pandas (1.3.5), numpy (1.23.5), matplotlib (3.7.0), scikit-learn (1.2.1), pytorch (1.12.1), nnUnet (v1), scipy (1.10.0), 
+
+Installation: see specific libraries for details. Expected install time ~15min
