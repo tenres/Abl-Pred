@@ -1,3 +1,22 @@
+################################################################################################################################################################################################################################
+# Copyright © 2024, Krishna Nand Keshava Murthy, Etay Ziv, Memorial Sloan-Kettering Cancer Center, Memorial Hospital for Cancer and Allied Diseases, and Sloan-Kettering Institute for Cancer Research, all rights reserved. 
+# This software is for academic research purposes only. You may only download the software if you are an employee of a nonprofit research institute and will use the code solely for academic, nonprofit research. All Users 
+# must agree to be bound by the conditions described herein before downloading the software. For all other uses including non-academic use or commercial use of the software including commercial use, please contact 
+# willk12@mskcc.org.
+#
+# THIS SOFTWARE IS PROVIDED “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE 
+# COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY. OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, 
+# OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
+# EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+#
+# Authors hereby provide Users with a revocable, non-exclusive license to the ABL-PRED code for academic research purposes only.  Users acknowledge and agree that they will not engage in unauthorized copying, reproduction, 
+# distribution, modification, display, public performance, sale, reposting, preparation of derivative works based on, or use of the ABL-PRED code for any other purpose under this license. Upon revocation of the license, 
+# Users agree to remove and/or shall cause to remove all copies of ABL-PRED code contained in or on the Users’ premises, systems, or any other equipment or location otherwise under Users’ control. 
+#
+# YOU UNDERSTAND THAT BY CLICKING THIS LINK (OR ACCESSING/EXECUTING THIS CODE), YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
+################################################################################################################################################################################################################################
+#
+#
 # This file pulls necessary objects through a registration transformation function
 
 # Imports
